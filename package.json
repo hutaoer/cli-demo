@@ -16,7 +16,7 @@
     "commander": "^2.20.3",
     "fs-extra": "^8.1.0",
     "inquirer": "^1.2.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "ora": "^4.0.3"
   },
   "dependencies": {}
